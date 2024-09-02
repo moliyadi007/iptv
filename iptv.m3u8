@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 group-title="上海频道" tvg-id="上海东方购物频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1012/46d6ac94062c0719114cd04412e89aad.jpg",上海东方购物频道
 http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 #EXTINF:-1 group-title="上海频道" tvg-id="游戏风云" tvg-logo="http://tv.haoqu99.com/d/file/2016/1012/6371637401fcf92492ef26d9636f924e.jpg",游戏风云
